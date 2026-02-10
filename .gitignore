@@ -1,6 +1,7 @@
 # Python-generated files
 __pycache__/
-*.py[oc]
+*.pyc
+*.whl
 build/
 dist/
 wheels/
@@ -8,5 +9,6 @@ wheels/
 .coverage
 coverage.xml
 *_cache/
+.python-version
 # Virtual environments
 .venv
